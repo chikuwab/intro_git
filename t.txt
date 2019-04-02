@@ -1,2 +1,3 @@
 test
 git remote add origin git@github.com:chikuwab/intro_git.git
+git push -u origin master
